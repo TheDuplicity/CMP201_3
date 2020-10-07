@@ -1,0 +1,7 @@
+﻿  basic-benchmarking.cpp
+\\StuHomeOdd\HomeDrive3$\1900093\Visual Studio Projects\Y2Sem1\CMP201\CMP201_3\basic-benchmarking\basic-benchmarking\basic-benchmarking.cpp(57,18): warning C4244:  '=': conversion from '_Rep' to 'float', possible loss of data
+\\StuHomeOdd\HomeDrive3$\1900093\Visual Studio Projects\Y2Sem1\CMP201\CMP201_3\basic-benchmarking\basic-benchmarking\basic-benchmarking.cpp(57,18): warning C4244:         with
+\\StuHomeOdd\HomeDrive3$\1900093\Visual Studio Projects\Y2Sem1\CMP201\CMP201_3\basic-benchmarking\basic-benchmarking\basic-benchmarking.cpp(57,18): warning C4244:         [
+\\StuHomeOdd\HomeDrive3$\1900093\Visual Studio Projects\Y2Sem1\CMP201\CMP201_3\basic-benchmarking\basic-benchmarking\basic-benchmarking.cpp(57,18): warning C4244:             _Rep=__int64
+\\StuHomeOdd\HomeDrive3$\1900093\Visual Studio Projects\Y2Sem1\CMP201\CMP201_3\basic-benchmarking\basic-benchmarking\basic-benchmarking.cpp(57,18): warning C4244:         ]
+  basic-benchmarking.vcxproj -> \\StuHomeOdd\HomeDrive3$\1900093\Visual Studio Projects\Y2Sem1\CMP201\CMP201_3\basic-benchmarking\x64\Debug\basic-benchmarking.exe
